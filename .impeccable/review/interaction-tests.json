@@ -1,0 +1,32 @@
+[
+  {
+    "design": 1,
+    "width": 1440,
+    "passed": true
+  },
+  {
+    "design": 1,
+    "width": 390,
+    "passed": true
+  },
+  {
+    "design": 2,
+    "width": 1440,
+    "passed": true
+  },
+  {
+    "design": 2,
+    "width": 390,
+    "passed": true
+  },
+  {
+    "design": 3,
+    "width": 1440,
+    "passed": true
+  },
+  {
+    "design": 3,
+    "width": 390,
+    "passed": true
+  }
+]

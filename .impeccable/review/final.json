@@ -1,0 +1,62 @@
+[
+  {
+    "n": 1,
+    "label": "desktop",
+    "title": "Kif — Faites place au plaisir.",
+    "overflow": false,
+    "images": [],
+    "fonts": "loaded",
+    "canvas": 1,
+    "errors": []
+  },
+  {
+    "n": 1,
+    "label": "mobile",
+    "title": "Kif — Faites place au plaisir.",
+    "overflow": false,
+    "images": [],
+    "fonts": "loaded",
+    "canvas": 1,
+    "errors": []
+  },
+  {
+    "n": 2,
+    "label": "desktop",
+    "title": "Kif Club — Du jeu. Du son. Du kif.",
+    "overflow": false,
+    "images": [],
+    "fonts": "loaded",
+    "canvas": 0,
+    "errors": []
+  },
+  {
+    "n": 2,
+    "label": "mobile",
+    "title": "Kif Club — Du jeu. Du son. Du kif.",
+    "overflow": false,
+    "images": [],
+    "fonts": "loaded",
+    "canvas": 0,
+    "errors": []
+  },
+  {
+    "n": 3,
+    "label": "desktop",
+    "title": "Kif Première — À chacun son grand moment",
+    "overflow": false,
+    "images": [],
+    "fonts": "loaded",
+    "canvas": 0,
+    "errors": []
+  },
+  {
+    "n": 3,
+    "label": "mobile",
+    "title": "Kif Première — À chacun son grand moment",
+    "overflow": false,
+    "images": [],
+    "fonts": "loaded",
+    "canvas": 0,
+    "errors": []
+  }
+]

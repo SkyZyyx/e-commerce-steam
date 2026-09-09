@@ -1,0 +1,8 @@
+# Finish review packet: routes 6 through 10
+User requests ten different HTML/CSS/JS ecommerce designs, parallel GPT6 Astra medium work. Audience Algeria; six product categories Steam accounts, Steam gift cards, Xbox Game Pass, Netflix, Spotify, ExitLag. Local real images and Motion animations. No gradients, terminal/cyberpunk styling, invented proof or real payments. Manual CCP/BaridiMob separate Chargily CIB/Edahabia. Demo prices and variants labeled. User explicitly wants completed code alternatives before choosing a later Svelte/Tailwind/DaisyUI implementation; no image comp is approved or required by this user workflow.
+
+Required screenshots: .impeccable/review/6/desktop.png and mobile.png; same for 7, 8, 9, 10. Desktop 1440x1000, mobile390x844. These are full pages; hero crops in same folders optional detail reference. Code and direction: each numbered folder index.html/style.css/app.js/DESIGN.md. Root PRODUCT.md and DESIGN.md. Seed keys recorded in root/route direction files.
+
+Worlds: 6 yellow/blue travel ticket counter;7 chocolate/peach listening room;8 forest sports editorial;9 orange sticker collage;10 lilac product gallery. Original 1-5 untouched. The new collection must be visually diverse and functional as prototypes.
+
+Root initial corrections: empty Escale toast hidden, Studio mobile product image aspect ratio corrected. Detector 6/7 returned one warning for 7 tab underline, a false positive as tab border is square and not on a rounded card. Remaining detector report for 8-10 supplied separately. Review provided evidence only; no browser, render, edits or additional detector. Report disposition ship/fix and persistence/fidelity/ceiling/material_fixes/keep. No approved comp or QUALITY BAR image exists, acknowledge scope.

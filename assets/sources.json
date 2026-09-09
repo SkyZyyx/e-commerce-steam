@@ -1,0 +1,19 @@
+{
+  "steam.jpg": "https://cdn.fastly.steamstatic.com/store/about/social-og.jpg",
+  "steam-gift.jpg": "https://www.turgame.com/wp-content/uploads/steam-wallet-code-n1500-570x684.jpg",
+  "xbox.jpg": "https://cms-assets.xboxservices.com/assets/5d/fc/5dfc9e21-5f25-4a7b-aea0-0fbcc3787934.jpg?n=1254895_Sharing_200x200.jpg",
+  "spotify.jpg": "https://cdn.media.amplience.net/i/xcite/644579-01?fmt=jpg&w=800",
+  "netflix.jpg": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/67QAAOSw-0xYNVVb/%24_12.JPG",
+  "elden-ring.jpg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/library_600x900_2x.jpg",
+  "forza.jpg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/library_600x900_2x.jpg",
+  "cyberpunk.jpg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_600x900_2x.jpg",
+  "red-dead.jpg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/library_600x900_2x.jpg",
+  "hollow-knight.jpg": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/library_600x900_2x.jpg",
+  "split-fiction.jpg": "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/library_600x900_2x.jpg",
+  "exitlag.png": "https://www.exitlag.com/templates/exit-lag/img/promotion/ExlV5/software_new_update_home.png",
+  "exitlag.jpg": "JPEG conversion of exitlag.png",
+  "exitlag-logo.svg": "https://www.exitlag.com/templates/exit-lag/img/logo.svg",
+  "forza-wide.jpg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/library_hero.jpg",
+  "elden-wide.jpg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/library_hero.jpg",
+  "red-dead-wide.jpg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/library_hero.jpg"
+}

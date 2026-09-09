@@ -1,0 +1,6 @@
+# Kif Sélection
+Swiss retail catalog: stark white, oxblood ink (#4a1427), fine monochrome rules, geometric Outfit headings. A narrow persistent oxblood navigation rail anchors a broad commercial canvas. A full-width, tightly cropped photographic game spread works like a print advertisement; an integrated selection strip supplies pricing and purchase entry. Below, six generous typographic index rows lead into one sticky image preview and inline order configurator. This is deliberately not a uniform product-card grid or left-copy/right-floating-media hero.
+
+The signature motion is an image-curtain reveal followed by precise photographic slides when switching featured games and catalog categories. Content remains visible without animation; reduced-motion skips authored movement. Mobile switches the rail to a top navigation bar and keeps the configurator directly after the selected catalog row group.
+
+All prices, durations and variants are illustrative. Six product categories, search, category selection, inline variant control, add/remove/quantity changes, accessible cart dialog and explicitly simulated checkout. Chargily CIB/Edahabia and manual CCP/BaridiMob are separate groups. No false claims, gradients, visual glow or invented commercial proof. Only HTML, CSS and vanilla JavaScript; local Motion dependency and real product artwork.

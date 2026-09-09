@@ -1,0 +1,4 @@
+# Kif Première
+Cinematic storefront: warm ivory editorial typography on theatrical charcoal; tomato marks selection and purchase. A layered wall of real game covers is the hero's visual subject. The catalog becomes an ivory program with generous horizontal rules and image-first product tiles. Serif headings pair with a precise sans. Cover changes and coordinated curtain reveals provide the signature motion. No gradients, invented proof, neon, or dashboard styling.
+
+Behavior: browsable hero selection; six-category filter and search; protected-focus product selection and cart; editable quantities; explicit demo checkout distinguishing Chargily CIB/Edahabia from manual CCP/BaridiMob. Illustrative prices, compatibility caveats and delivery uncertainty are disclosed at the point of purchase. Native details FAQ, dialog keyboard behavior, mobile nav and reduced-motion support.

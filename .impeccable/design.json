@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-08T12:21:39.173126+00:00",
+  "title": "Kif — ten design studies",
+  "extensions": {
+    "motion": [
+      {
+        "name": "club-poster-ease",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Club headline reveal and ticket arrival; disabled for reduced motion."
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Boutique purchase",
+      "kind": "button",
+      "description": "Route-specific purchase control; no final shared component chosen.",
+      "html": "<button class=\"ds-boutique\">Explorer la collection</button>",
+      "css": ".ds-boutique{display:inline-flex;align-items:center;justify-content:center;gap:36px;min-height:54px;padding:14px 23px;background:#d63d1c;color:#fff;border:0;border-radius:6px;font:650 14px Arial,sans-serif;cursor:pointer;transition:transform .2s,background .2s}.ds-boutique:hover{background:#b82e10;transform:translateY(-2px)}.ds-boutique:focus-visible{outline:3px solid #d63d1c;outline-offset:4px}"
+    },
+    {
+      "name": "Club purchase",
+      "kind": "button",
+      "description": "Route-specific purchase control; no final shared component chosen.",
+      "html": "<button class=\"ds-club\">Explorer la collection</button>",
+      "css": ".ds-club{background:#ddf852;color:#112460;border:0;padding:16px 20px;font:600 13px Arial,sans-serif;cursor:pointer}.ds-club:hover{background:#edff92}.ds-club:focus-visible{outline:3px solid #ddf852;outline-offset:4px}"
+    },
+    {
+      "name": "Première purchase",
+      "kind": "button",
+      "description": "Route-specific purchase control; no final shared component chosen.",
+      "html": "<button class=\"ds-premiere\">Explorer la collection</button>",
+      "css": ".ds-premiere{background:#c7402c;color:#ffffff;border:0;padding:17px 23px;font:600 13px Arial,sans-serif;cursor:pointer}.ds-premiere:hover{background:#ba3624}.ds-premiere:focus-visible{outline:3px solid #c7402c;outline-offset:4px}"
+    },
+    {
+      "name": "Club search",
+      "kind": "input",
+      "description": "Pale-blue catalog search.",
+      "html": "<input class=\"ds-search\" type=\"search\" aria-label=\"Rechercher un produit\" placeholder=\"Un kif en tête ?\">",
+      "css": ".ds-search{background:#e2ebfb;color:#112460;border:0;padding:10px;font:13px Arial,sans-serif;caret-color:#153cda}.ds-search::placeholder{color:#425381}.ds-search:focus-visible{outline:3px solid #112460;outline-offset:5px}"
+    },
+    {
+      "name": "Club selected category",
+      "kind": "chip",
+      "description": "Selected catalog filter.",
+      "html": "<button class=\"ds-filter\" aria-pressed=\"true\">Tout le club</button>",
+      "css": ".ds-filter{background:#153cda;color:#e2ebfb;padding:10px 16px;border:1px solid #153cda;font:13px Arial,sans-serif;cursor:pointer}.ds-filter:hover{background:#112460}.ds-filter:focus-visible{outline:3px solid #112460;outline-offset:5px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Ten distinct worlds, one digital storefront",
+    "overview": "Ten independent HTML/CSS/JavaScript storefront studies at /1/ through /10/. Root comparison links all ten. No final selection or Svelte implementation.",
+    "keyCharacteristics": [
+      "Boutique: warm, tangible digital gifts.",
+      "Club: graphic cultural posters and condensed lettering.",
+      "Première: cinematic covers and editorial serif typography.",
+      "Pop: mint and pink interactive product deck with rounded display typography.",
+      "Sélection: white and oxblood commerce index with vertical navigation.",
+      "Escale: yellow and ultramarine ticket-counter store.",
+      "Studio: chocolate and peach record-store browsing.",
+      "Terrain: forest green sports editorial.",
+      "Récré: orange cut-paper sticker shop.",
+      "Objet: lilac and white product gallery."
+    ],
+    "rules": [],
+    "dos": [
+      "Do preserve each route's distinct world while the user compares designs.",
+      "Do keep illustrative prices and separate payment workflows explicit.",
+      "Do retain local imagery, reduced-motion behavior and visible keyboard focus."
+    ],
+    "donts": [
+      "Don't imply that a final design has been selected or that Svelte has been implemented.",
+      "Don't introduce gradients, terminal styling, cyberpunk, fabricated reviews, sales counts or guarantees."
+    ]
+  }
+}

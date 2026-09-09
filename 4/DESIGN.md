@@ -1,0 +1,4 @@
+# Kif Pop
+Persuade surface. Seed f2371ef3; additional code prototype requested before visual selection.
+Mint #d7f3db, pink #f8b9d3, forest #173d30. Outfit rounded display and DM Sans body, locally hosted. Centered headline sits over a browsable five-card deck representing a six-product rotation. Catalog uses horizontal product entries; fixed expandable order tray keeps the selection nearby. Motion reveals type and cards, animated feature details and closing geometry; reduced motion is respected.
+All six categories, search/filter, variant pricing, cart quantities via repeated addition, removal, manual CCP/BaridiMob and Chargily CIB/Edahabia demos. Provisional name, illustrative pricing, no payment integration. Narrow screens keep the hero deck and use a single-column catalog. Original /1–/3 remain unchanged.
